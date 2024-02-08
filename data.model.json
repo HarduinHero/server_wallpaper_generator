@@ -1,0 +1,14 @@
+[
+    {
+        "_champSansLabel" : {
+            "txt" : "SERV-X",
+            "size" : 50,
+            "color" : [25, 150, 200]
+        },
+        "ip" : {
+            "txt" : "192.168.X.X",
+            "size" : 25
+        },
+        "__bg__" : "blank_b.png"
+    }
+]
